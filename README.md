@@ -3,3 +3,5 @@ program4
 hello
 welcome
 Hi
+Thanu
+Nidhi
